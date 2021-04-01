@@ -5,6 +5,7 @@ Ru:
 Поддержка ванилы:
 1. Верстак
 2. Печь
+
 Поддержка модов:
 1. Draconic Evolution 
 
@@ -13,5 +14,6 @@ With this script, you can create lines of code for the mods Craft Tweaker 2 and 
 Vanilla support:
 1. Workbench
 2. The oven
+
 Support for mods:
 1. Draconic Evolution
