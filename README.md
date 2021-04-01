@@ -10,7 +10,7 @@ Ru:
 Поддержка модов:
 1. Draconic Evolution 
 
-
+-------------------------------
 
 En:
 With this script, you can create lines of code for the mods Craft Tweaker 2 and Mod Tweaker, for the version of Minecraft 1.12.2
