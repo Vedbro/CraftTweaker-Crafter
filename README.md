@@ -1,7 +1,7 @@
 Ver: 0.2
 
 Ru:
-С помощью этого скрипта можно создать строчки кода для модов CraftTweaker 2 и ModTweaker, для версии Майнкрафта 1.12.2
+С помощью этого скрипта можно создать строчки кода для модов CraftTweaker 2 и MoreTweaker, для версии Майнкрафта 1.12.2
 
 Поддержка ванилы:
 1. Верстак
@@ -13,7 +13,7 @@ Ru:
 -------------------------------
 
 En:
-With this script, you can create lines of code for the mods Craft Tweaker 2 and Mod Tweaker, for the version of Minecraft 1.12.2
+With this script, you can create lines of code for the mods Craft Tweaker 2 and MoreTweaker, for the version of Minecraft 1.12.2
 
 Vanilla support:
 1. Workbench
